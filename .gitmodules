@@ -4,3 +4,9 @@
 [submodule "jam-wiki"]
 	path = jam-wiki
 	url = git@github.com:josiahqh/jam-wiki.git
+[submodule "justagithubwiki"]
+	path = justagithubwiki
+	url = git@github.com:josiahqh/justagithubwiki.git
+[submodule "justagithubwiki-wiki"]
+	path = justagithubwiki-wiki
+	url = git@github.com:josiahqh/justagithubwiki.wiki.git
