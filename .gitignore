@@ -1,0 +1,10 @@
+# Secrets
+.ssh/
+etc/
+
+# Claude Code local settings (may contain tokens in allowlist)
+.claude/
+
+# Other stuff
+.DS_Store
+*.swp

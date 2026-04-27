@@ -1,0 +1,6 @@
+[submodule "githubfeaturestest"]
+	path = githubfeaturestest
+	url = git@github.com:josiahqh/githubfeaturestest.git
+[submodule "jam-wiki"]
+	path = jam-wiki
+	url = git@github.com:josiahqh/jam-wiki.git
